@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devskill.Solve.Beginner", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devskill.Solve.Easy", "Devskill.Solve.Easy\Devskill.Solve.Easy.csproj", "{FA4EF269-DB29-4E01-9CAB-0D888A3A9223}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devskill.Solve.Medium", "Devskill.Solve.Medium\Devskill.Solve.Medium.csproj", "{99971974-BA6F-4E0A-8BE0-27496E106D70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FA4EF269-DB29-4E01-9CAB-0D888A3A9223}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA4EF269-DB29-4E01-9CAB-0D888A3A9223}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA4EF269-DB29-4E01-9CAB-0D888A3A9223}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99971974-BA6F-4E0A-8BE0-27496E106D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99971974-BA6F-4E0A-8BE0-27496E106D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99971974-BA6F-4E0A-8BE0-27496E106D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99971974-BA6F-4E0A-8BE0-27496E106D70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
