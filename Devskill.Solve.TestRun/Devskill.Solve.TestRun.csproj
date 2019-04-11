@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp2.2</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Devskill.Solve.Beginner\Devskill.Solve.Beginner.csproj" />
+  </ItemGroup>
+
 </Project>

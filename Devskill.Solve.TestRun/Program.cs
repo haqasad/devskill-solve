@@ -1,4 +1,5 @@
 ﻿using System;
+using Devskill.Solve.Beginner;
 
 namespace Devskill.Solve.TestRun
 {
@@ -6,7 +7,9 @@ namespace Devskill.Solve.TestRun
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //DCP-196: BREAK SIMULATOR | STATUS: SOLVED
+            Dcp196_BreakSimulator dcp196 = new Dcp196_BreakSimulator();
+            dcp196.Solution();
         }
     }
 }
