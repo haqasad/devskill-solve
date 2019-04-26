@@ -12,8 +12,12 @@ namespace Devskill.Solve.TestRun
             //dcp196.Solution();
 
             //DCP-32: THE GRID | STATUS: SOLVED
-            Dcp32_TheGrid dcp32 = new Dcp32_TheGrid();
-            dcp32.Solution();
+            //Dcp32_TheGrid dcp32 = new Dcp32_TheGrid();
+            //dcp32.Solution();
+
+            //DCP-321: THE GRID | STATUS: UNSOLVED
+            Dcp321_ChangeCase dcp321 = new Dcp321_ChangeCase();
+            dcp321.Solution();
         }
     }
 }
